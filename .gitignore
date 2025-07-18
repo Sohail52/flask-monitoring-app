@@ -3,3 +3,4 @@
 *.tfstate.*
 *.tfplan
 *.pem
+terraform/.terraform.lock.hcl
